@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdillo893
-- 👀 I’m interested in video games and full stack development
-- 🌱 I’m currently learning React and node.js
-- 💞️ I’m looking to collaborate on projects in the gaming space for which I have applicable skills (like sendou.ink, but I don't have typescript experience)
+- 👀 I’m interested in video games, disc golf, and recently learning guitar
+- 🌱 I’m currently learning React and node.js while refreshing my knowledge of C and OS programming
+- 💞️ I’m not currently looking to collaborate on projects
 - 📫 How to reach me: kdillo893@gmail.com
 
 <!---
