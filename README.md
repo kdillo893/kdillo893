@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kdillo893
 - 👀 I’m interested in video games, disc golf, and recently learning guitar
-- 🌱 I’m currently learning React and node.js while refreshing my knowledge of C and OS programming
+- 🌱 I’m currently refreshing some Java knowledge and looking into tools I haven't used before on back-end things. I want to run through some of my old college projects and re-do them.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: kdillo893@gmail.com
 
